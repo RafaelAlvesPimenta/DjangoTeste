@@ -40,3 +40,13 @@ a:hover{
     color: black;
 }
 
+.error {
+    color: white;
+    background-color: #ff4d4d;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+    list-style: none;
+}
